@@ -1,0 +1,6 @@
+
+open file in cmd:notepad filename.extension
+
+ala balaportocala
+
+test2
